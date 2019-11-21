@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\TesteNDD\bin\Debug\TesteNDD.exe.config
+C:\Users\User\source\repos\TesteNDD\bin\Debug\TesteNDD.exe
+C:\Users\User\source\repos\TesteNDD\bin\Debug\TesteNDD.pdb
+C:\Users\User\source\repos\TesteNDD\obj\Debug\TesteNDD.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TesteNDD\obj\Debug\TesteNDD.Form1.resources
+C:\Users\User\source\repos\TesteNDD\obj\Debug\TesteNDD.Properties.Resources.resources
+C:\Users\User\source\repos\TesteNDD\obj\Debug\TesteNDD.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TesteNDD\obj\Debug\TesteNDD.exe
+C:\Users\User\source\repos\TesteNDD\obj\Debug\TesteNDD.pdb
+C:\Users\User\source\repos\TesteNDD\obj\Debug\TesteNDD.FormDetalhesEmprestimo.resources
+C:\Users\User\source\repos\TesteNDD\obj\Debug\TesteNDD.FormRecebimentoParcela.resources
